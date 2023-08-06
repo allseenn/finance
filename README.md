@@ -348,9 +348,4 @@ $$P(A\;and\;B) = P(A \cap B) = P(A)P(B)$$
 $$P(A\;or\;B) = P(A \cup B) = P(A)+P(B)$$
 где Р(А or В) – вероятность того, что произойдет либо событие А, либо событие В.
 
-
-<div>
-      <svg width="64" height="64">
-        <circle cx="32" cy="32" r="32" fill="white" stroke="black" stroke-width="2" />
-      </svg>
-</div>
+<div style="width: 100px; height: 100px; background-color: #000; border-radius: 50%;"></div>
